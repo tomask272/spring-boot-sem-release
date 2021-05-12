@@ -1,3 +1,10 @@
+## [1.1.7](https://github.com/tomask272/spring-boot-sem-release/compare/v1.1.6...v1.1.7) (2021-05-12)
+
+
+### Bug Fixes
+
+* gitlab ci fix ([048a671](https://github.com/tomask272/spring-boot-sem-release/commit/048a6718685aceaf83018bcf3c7cc8629022e436))
+
 ## [1.1.6](https://github.com/tomask272/spring-boot-sem-release/compare/v1.1.5...v1.1.6) (2021-05-12)
 
 
