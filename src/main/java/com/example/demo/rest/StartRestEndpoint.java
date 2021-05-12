@@ -18,6 +18,6 @@ public class StartRestEndpoint {
 
     @GetMapping("/name")
     public String getAdditionalInfo() {
-        return buildProperties.getName();
+        return "Name: "+buildProperties.getName();
     }
 }
