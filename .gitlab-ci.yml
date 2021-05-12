@@ -8,5 +8,5 @@ tag_project:
 
 build_project:
   stage: build
-  script: mvn versions:set -DnewVersion=$(git describe --tags --abbrev=0) clean compile install
+  script: mvn versions:set -DnewVersion=$(git describe --tags --abbrev=0) clean compile package
 
