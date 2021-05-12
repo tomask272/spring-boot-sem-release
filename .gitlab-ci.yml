@@ -1,14 +1,10 @@
 stages:
-  - tag
   - build
 
 tag_project:
-  stage: tag
+  stage: build
   script:
     - semantic-release
     - mvn versions:set -DnewVersion=$(git describe --tags --abbrev=0)
-
-build_project:
-  stage: build
-  script: mvn clean compile install
+    - mvn clean install
 
