@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/tomask272/spring-boot-sem-release/compare/v2.0.0...v2.1.0) (2021-05-12)
+
+
+### Features
+
+* **ID:** [PAYM-2333] New feature ([4adcd05](https://github.com/tomask272/spring-boot-sem-release/commit/4adcd050f4f3747289c0de6df78f061caa40f294))
+
 # [2.0.0](https://github.com/tomask272/spring-boot-sem-release/compare/v1.1.10...v2.0.0) (2021-05-12)
 
 
