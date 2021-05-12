@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/tomask272/spring-boot-sem-release/compare/v1.1.10...v2.0.0) (2021-05-12)
+
+
+### Code Refactoring
+
+* code change ([9db42b2](https://github.com/tomask272/spring-boot-sem-release/commit/9db42b2bc10861d0276ff760c501118a89d12558))
+
+
+### BREAKING CHANGES
+
+*
+
 ## [1.1.10](https://github.com/tomask272/spring-boot-sem-release/compare/v1.1.9...v1.1.10) (2021-05-12)
 
 
