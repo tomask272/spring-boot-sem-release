@@ -1,3 +1,10 @@
+## [1.1.10](https://github.com/tomask272/spring-boot-sem-release/compare/v1.1.9...v1.1.10) (2021-05-12)
+
+
+### Bug Fixes
+
+* **KZ:** breaking change ([3589ece](https://github.com/tomask272/spring-boot-sem-release/commit/3589ecefc9937eaa50900fb67e4b804512f271d9))
+
 ## [1.1.9](https://github.com/tomask272/spring-boot-sem-release/compare/v1.1.8...v1.1.9) (2021-05-12)
 
 
