@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/tomask272/spring-boot-sem-release/compare/v1.1.2...v1.1.3) (2021-05-12)
+
+
+### Bug Fixes
+
+* Fix of reading the tags ([eee4a0f](https://github.com/tomask272/spring-boot-sem-release/commit/eee4a0ff478ad54b1aa6487a87d3151497bfbf16))
+
 ## [1.1.2](https://github.com/tomask272/spring-boot-sem-release/compare/v1.1.1...v1.1.2) (2021-05-12)
 
 
