@@ -1,3 +1,10 @@
+## [1.1.9](https://github.com/tomask272/spring-boot-sem-release/compare/v1.1.8...v1.1.9) (2021-05-12)
+
+
+### Bug Fixes
+
+* Adding new endpoint ([3a87766](https://github.com/tomask272/spring-boot-sem-release/commit/3a87766ee6418f5d803908cba878c50656de68c0))
+
 ## [1.1.8](https://github.com/tomask272/spring-boot-sem-release/compare/v1.1.7...v1.1.8) (2021-05-12)
 
 
