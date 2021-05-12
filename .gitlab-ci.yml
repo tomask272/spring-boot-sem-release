@@ -8,5 +8,5 @@ tag_project:
 
 build_project:
   stage: build
-  script: mvn compile install -DnewVersion=$CI_COMMIT_TAG
+  script: mvn compile install versions:set -DnewVersion=$CI_COMMIT_TAG
 
