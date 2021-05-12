@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/tomask272/spring-boot-sem-release/compare/v2.1.0...v2.2.0) (2021-05-12)
+
+
+### Features
+
+* **KZ:** [PAYM-3333] BREAKING CHANGE: ([53a423a](https://github.com/tomask272/spring-boot-sem-release/commit/53a423a6084ca65956767ef705e894fad07aa470))
+
 # [2.1.0](https://github.com/tomask272/spring-boot-sem-release/compare/v2.0.0...v2.1.0) (2021-05-12)
 
 
