@@ -13,6 +13,6 @@ public class StartRestEndpoint {
 
     @GetMapping("/build")
     public String getBuild() {
-        return "Application version:"+buildProperties.getVersion();
+        return "This is application version:"+buildProperties.getVersion();
     }
 }
