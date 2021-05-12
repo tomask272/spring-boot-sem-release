@@ -18,6 +18,6 @@ public class StartRestEndpoint {
 
     @GetMapping("/name")
     public String getAdditionalInfo() {
-        return "Name of the app: "+buildProperties.getName();
+        return "Name of the app "+buildProperties.getName();
     }
 }
