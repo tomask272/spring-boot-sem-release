@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/tomask272/spring-boot-sem-release/compare/v1.0.0...v1.1.0) (2021-05-12)
+
+
+### Features
+
+* **IN:** Fix of version prefix ([390289f](https://github.com/tomask272/spring-boot-sem-release/commit/390289fcab9345bc4635720d1ee5a017ea5c3654))
+
 # 1.0.0 (2021-05-12)
 
 
