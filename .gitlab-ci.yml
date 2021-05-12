@@ -1,0 +1,12 @@
+stages:
+  - tag
+  - build
+
+tag_project:
+  stage: tag
+  script: semantic-release
+
+build_project:
+  stage: build
+  script: mvn compile install
+
