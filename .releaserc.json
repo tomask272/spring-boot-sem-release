@@ -15,7 +15,6 @@
       "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
     }],
     "@semantic-release/github"
-    ],
-  "repositoryUrl": "git@github.com:tomask272/spring-boot-sem-release.git"
+    ]
 
 }
