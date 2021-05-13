@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/tomask272/spring-boot-sem-release/compare/v2.2.0...v2.2.1) (2021-05-13)
+
+
+### Bug Fixes
+
+* **KZ:** This is fix ([663ca03](https://github.com/tomask272/spring-boot-sem-release/commit/663ca0341184da1f5ec37b6147374dc363378070))
+
 # [2.2.0](https://github.com/tomask272/spring-boot-sem-release/compare/v2.1.0...v2.2.0) (2021-05-12)
 
 
