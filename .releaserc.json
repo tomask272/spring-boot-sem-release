@@ -16,6 +16,6 @@
     }],
     "@semantic-release/github"
     ],
-  "repositoryUrl": "https://github.com/tomask272/spring-boot-sem-release"
+  "repositoryUrl": "git@github.com:tomask272/spring-boot-sem-release.git"
 
 }
