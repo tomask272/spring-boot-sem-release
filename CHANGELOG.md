@@ -1,3 +1,17 @@
+# [2.3.0](https://github.com/tomask272/spring-boot-sem-release/compare/v2.2.1...v2.3.0) (2021-05-13)
+
+
+### Bug Fixes
+
+* config fix ([822b94b](https://github.com/tomask272/spring-boot-sem-release/commit/822b94b7c641e931b96c6acdafbb74a68afc8b97))
+* config fix ([cee0acb](https://github.com/tomask272/spring-boot-sem-release/commit/cee0acb7268dea4cf6875d9b2ea210d89394f0ae))
+
+
+### Features
+
+* **KZ:** Feaure ([d96666f](https://github.com/tomask272/spring-boot-sem-release/commit/d96666ff5202d327c871ccacaca16b5fd0cad1c1))
+* This is feature ([fe18aea](https://github.com/tomask272/spring-boot-sem-release/commit/fe18aea58787f5ccbcec3d5c91c9663d8b8ec860))
+
 ## [2.2.1](https://github.com/tomask272/spring-boot-sem-release/compare/v2.2.0...v2.2.1) (2021-05-13)
 
 
